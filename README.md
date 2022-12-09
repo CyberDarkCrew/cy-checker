@@ -9,4 +9,4 @@
 
 `cd cy-checker`
 
-`python3.10 main.pyc`
+`python3 main.py`
